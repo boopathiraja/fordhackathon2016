@@ -88,16 +88,16 @@ public class SdlService extends Service implements IProxyListenerALM{
 
 	private static final String TAG 					= "SDL Service";
 
-	private static final String APP_NAME 				= "Hello Sdl";
-	private static final String APP_ID 					= "8675309";
+	private static final String APP_NAME 				= "IntelligentTakeBreakAssist";
+	private static final String APP_ID 					= "1234567";
 	
 	private static final String ICON_FILENAME 			= "hello_sdl_icon.png";
 	private int iconCorrelationId;
 
 	List<String> remoteFiles;
 	
-	private static final String WELCOME_SHOW 			= "Welcome to HelloSDL";
-	private static final String WELCOME_SPEAK 			= "Welcome to Hello S D L";
+	private static final String WELCOME_SHOW 			= "Welcome to IntelligentTakeBreakAssist SDL";
+	private static final String WELCOME_SPEAK 			= "Welcome to IntelligentTakeBreakAssist S D L";
 	
 	private static final String TEST_COMMAND_NAME 		= "Test Command";
 	private static final int TEST_COMMAND_ID 			= 1;
