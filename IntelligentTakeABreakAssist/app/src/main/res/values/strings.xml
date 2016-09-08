@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">IntelligentTakeBreakAssist</string>
-    <string name="hello_world">IntelligentTakeBreakAssist SDL!</string>
+    <string name="app_name">fourdirection</string>
+    <string name="hello_world">fourdirection SDL!</string>
     <string name="action_settings">Settings</string>
     <string name="action_menu">Menu</string>
 
